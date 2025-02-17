@@ -6,7 +6,7 @@ a CLI tool to help you calculate pi
 ## build from source
 
 install the following packages:
-`gcc`, `make`, `libgmp-dev` and `libmpfr-dev `
+`gcc`, `make`, `libgmp-dev` and `libmpfr-dev`
 
 clone the repo
 
